@@ -1,2 +1,3 @@
 # GitHub-Repo
-it is first repo for learning purpose
+This is first repo for learning purpose to learn git and github
+Author- Vinod Udhwani
